@@ -1,5 +1,5 @@
 # Báo cáo tuần 1 (12/7/2023-14/7/2023)
-## 1.SOC platform VCS)(https://viettelcybersecurity.com/vi/vcs-giai-phap-cho-chinh-phu-va-doanh-nghiep-lon-vi/)
+## 1.SOC platform VCS(https://viettelcybersecurity.com/vi/vcs-giai-phap-cho-chinh-phu-va-doanh-nghiep-lon-vi/)
 Giải pháp tích hợp nhiều thành phần, hệ thống An toàn thông tin để thực hiện giám sát vận hành toàn diện
 -	Bảo mật trên lớp endpoint, network và các hệ thống khác
 -	Thu thập log, quản lý tập trung và đưa ra cảnh báo
